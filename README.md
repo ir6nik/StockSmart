@@ -1,4 +1,4 @@
-## Simple Stock analysis
+## StockSmart™
 ### Carter Wong and Ronik Agarwal
 
 
