@@ -1,4 +1,4 @@
-# Simple Stock analysis
+## Simple Stock analysis
 ### Carter Wong and Ronik Agarwal
 ** **
 
