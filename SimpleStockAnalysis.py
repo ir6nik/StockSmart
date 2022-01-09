@@ -109,4 +109,3 @@ elif rating<int((numofcriteria*-1)*.5):
     print("Sell, rating:",rating)
 else:
     print("Neutral, rating: ",rating)
-    
